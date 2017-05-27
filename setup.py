@@ -40,7 +40,7 @@ setup(
     description='motionEye server',
     long_description=long_description,
 
-    url='https://github.com/ccrisan/motioneye/',
+    url='https://github.com/ratacky/motioneye/',
 
     author='Calin Crisan',
     author_email='ccrisan@gmail.com',
